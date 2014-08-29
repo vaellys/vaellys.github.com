@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-   <title>BeiYuu.com</title>
-   <link href="http://beiyuu.com/atom.xml" rel="self" type="application/atom+xml"/>
-   <link href="http://beiyuu.com" rel="alternate" type="text/html" />
-   <updated>2014-08-28T18:46:26+08:00</updated>
-   <id>http://beiyuu.com</id>
+   <title>Vaellys.com</title>
+   <link href="http://Vaellys.com/atom.xml" rel="self" type="application/atom+xml"/>
+   <link href="http://Vaellys.com" rel="alternate" type="text/html" />
+   <updated>2014-08-29T10:03:01+08:00</updated>
+   <id>http://Vaellys.com</id>
    <author>
      <name></name>
      <email></email>
